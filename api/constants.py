@@ -1,0 +1,13 @@
+LOAN_RATES = {
+    'CAR': 1.0865, #8.65
+    'HOME': 1.085, #8.5
+    'EDUCATION': 1.073, #7.3
+    'PERSONAL': 1.0105, #10.5
+}
+
+LOAN_MAXIMUMS = {
+    'CAR' : 750000,
+    'HOME' : 8500000,
+    'EDUCATION' : 5000000,
+    'PERSONAL' : 1000000,
+}
